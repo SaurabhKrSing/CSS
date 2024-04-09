@@ -1,10 +1,10 @@
-# Java Interview Questions & Answers
+# CSS Interview Questions & Answers
 
 ### Table of Contents
 
 | Questions                                                                             |
 | ------------------------------------------------------------------------------------- |
-| [What is Java (Just Another Virtual Accelerator)](#what-is-Java)                      |
+| [What is CSS](#what-is-CSS)                                                           |
 | [Feature of java](#Feature-of-java)                                                   |
 | [Feature of Java 20](#Feature-of-Java-20)                                             |
 | [Feature of Java 8](#Feature-of-Java-8)                                               |
@@ -12,11 +12,13 @@
 | [What is Platform Independence](#What-is-Platform-Independence)                       |
 | [Why we use static in Main Method in java](#Why-we-use-static-in-Main-Method-in-java) |
 
-### What is Java (Just Another Virtual Accelerator)
+### What is CSS
 
-Java is a high level, class based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is widely used programming language for coding web application.
+CSS, or Cascading Style Sheets, is a stylesheet language used to control the presentation and layout of web pages written in HTML and XML. It enables the separation of document content from presentation, allowing designers to style elements with properties such as color, layout, and typography for enhanced visual aesthetics.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+---
 
 ## Disclaimer
 
