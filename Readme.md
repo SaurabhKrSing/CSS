@@ -1,75 +1,78 @@
-****# CSS Interview Questions & Answers
+**# CSS Interview Questions & Answers**
 
 ### Table of Contents
 
-| Questions                                                                                             |
-| ----------------------------------------------------------------------------------------------------- |
-| [What is CSS](#what-is-CSS)                                                                           |
-| [What do you means by Cascading in CSS](#What-do-you-means-by-Cascading-in-CSS)                       |
-| [What do you means by Specificity in CSS](#What-do-you-means-by-Specificity-in-CSS)                   |
-| [What do you means by Inheritance in CSS](#What-do-you-means-by-Inheritance-in-CSS)                   |
-| [What do you means by Non Inheritance in CSS](#What-do-you-means-by-Non-Inheritance-in-CSS)           |
-| [Why do we use CSS](#Why-do-we-use-CSS)                                                               |
-| [Advantages and Disadvantages of CSS](#Advantages-and-Disadvantages-of-CSS)                           |
-| [How is CSS different from CSS3](#How-is-CSS-different-from-CSS3)                                     |
-| [List the CSS Frameworks](#List-the-CSS-Frameworks)                                                   |
-| [What is the syntax for CSS](#What-is-the-syntax-for-CSS)                                             |
-| [In how many ways can we add CSS to our HTML file](#In-how-many-ways-can-we-add-CSS-to-our-HTML-file) |
-| [What is Difference Between Padding and Margin](#What-is-Difference-Between-Padding-and-Margin)       |
-| [What is Flexbox](#What-is-Flexbox)                                                                   |
-| [What is Media Query ](#What-is-Media-Query)                                                          |
-| [What is CSS preprocessor Sass](#What-is-CSS-preprocessor-Sass)                                       |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
-| [](#)                                                                                                 |
+| Questions                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------- |
+| [What is CSS](#what-is-CSS)                                                                                   |
+| [What do you means by Cascading in CSS](#What-do-you-means-by-Cascading-in-CSS)                               |
+| [What do you means by Specificity in CSS](#What-do-you-means-by-Specificity-in-CSS)                           |
+| [What do you means by Inheritance in CSS](#What-do-you-means-by-Inheritance-in-CSS)                           |
+| [What do you means by Non Inheritance in CSS](#What-do-you-means-by-Non-Inheritance-in-CSS)                   |
+| [Why do we use CSS](#Why-do-we-use-CSS)                                                                       |
+| [Advantages and Disadvantages of CSS](#Advantages-and-Disadvantages-of-CSS)                                   |
+| [How is CSS different from CSS3](#How-is-CSS-different-from-CSS3)                                             |
+| [List the CSS Frameworks](#List-the-CSS-Frameworks)                                                           |
+| [What is the syntax for CSS](#What-is-the-syntax-for-CSS)                                                     |
+| [In how many ways can we add CSS to our HTML file](#In-how-many-ways-can-we-add-CSS-to-our-HTML-file)         |
+| [What is Difference Between Padding and Margin](#What-is-Difference-Between-Padding-and-Margin)               |
+| [What is Flexbox](#What-is-Flexbox)                                                                           |
+| [What is Box Model in CSS](#What-is-Box-Model-in-CSS)                                                         |
+| [What is Box Sizing Property](#What-is-Box-Sizing-Property)                                                   |
+| [What is different between Content Box and Border Box](#What-is-different-between-Content-Box-and-Border-Box) |
+| [What is Media Query ](#What-is-Media-Query)                                                                  |
+| [What is CSS preprocessor Sass](#What-is-CSS-preprocessor-Sass)                                               |
+| [What is the default value of Position Property](#What-is-the-default-value-of-Position-Property)             |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
+| [](#)                                                                                                         |
 
 
 ### What is CSS
@@ -340,6 +343,48 @@ Flexbox is a CSS layout model that provides a more efficient way to design and a
 ---
 
 
+### What is Box Model in CSS
+
+The CSS box model is a set of rules that define how elements are displayed on a website, including their boundaries, spacing, and parameters. It represents each element in a document as a rectangular box, made up of four parts or areas:
+
+1. Content box: The area where content is displayed
+2. Padding box: White space around the content
+3. Border box: Wraps the content and any padding
+4. Margin box: The outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+
+### What is Box Sizing Property
+
+Box-sizing enables you to define how you want the height and width of an element to be calculated. It means that you can use this property to specify whether the padding or border of the element should be included in the height and width or not.
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+
+### What is different between Content Box and Border Box
+
+| Property           | Content Box                                        | Border Box                                                     |
+| ------------------ | -------------------------------------------------- | -------------------------------------------------------------- |
+| Description        | Refers to the area inside the element's border.    | Refers to the area including the element's padding and border. |
+| Width Calculation  | Width is calculated excluding padding and border.  | Width is calculated including padding and border.              |
+| Height Calculation | Height is calculated excluding padding and border. | Height is calculated including padding and border.             |
+| Total Size         | Total size does not include padding or border.     | Total size includes padding and border.                        |
+
+Content Box represents the area inside the element's border, while Border Box represents the area including the element's padding and border. Width and height calculations differ between the two, affecting the total size of the element.
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+
 ### What is Media Query 
 
 A media query in CSS allows you to apply styles based on the characteristics of the device or viewport, such as screen size, resolution, orientation, or color scheme, enabling responsive design.
@@ -360,10 +405,58 @@ Sass (Syntactically Awesome Style Sheets) is a CSS preprocessor that extends CSS
 ---
 
 
-### 
+### What is the default value of Position Property
+
+The default value of the `position` property in CSS is `static`. Elements with `position: static` are positioned according to the normal flow of the document, without any special positioning. They are not affected by the top, bottom, left, or right properties, nor by z-index.
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
 
 
 ### 
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+**[⬆ Back to Top](#table-of-contents)**
+
+---
 
 ## Disclaimer
 
